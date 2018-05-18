@@ -10,7 +10,8 @@ For file project_737491_d.py:
 	
 	latitude longitude distance_range in km
 
-	e.g  docker run -v /home/kokotla/Documents/Large_scale/project/simulation/data:/data -v /home/kokotla/Documents/Large_scale/project/simulation/output:/output kokotla6 -26.205 28.050 100
+	e.g  docker run -v /home/kokotla/Documents/Large_scale/project/simulation/data:/data -v /home/kokotla/Documents/Large_scale/project/simulation/output:/output quay.io/kokotla/737491 -26.205 28.050 100
 
 
-
+NB!!!!!!!!!!!!!!!!!!!
+My quay.io repository is quay.io/kokotla/737491
